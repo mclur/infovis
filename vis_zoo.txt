@@ -1,3 +1,5 @@
+encodings
+index chart
 stream graph
 small multiples
 horizon graph
