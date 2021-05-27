@@ -1,0 +1,14 @@
+stream graph
+small multiples
+horizon graph
+brushing-and-linking
+parallel coordinates
+flow map
+choropleth map
+graduated symbol map
+cartogram
+node-link diagram
+adjacency diagram
+enclosure diagram
+arc diagram
+treemap
